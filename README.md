@@ -1,4 +1,6 @@
 # project_STL
+Treść zadania:
+
 1) Posiadamy interfejs PersonIf:
 
 class PersonIf 
@@ -76,4 +78,3 @@ stworzy 10k osób,
 ze wszystkich osób posortowanych po imieniu, wypisze pierwszą,
 ze wszystkich osób posortowanych po nazwisku, wypisze 50 osób, od pozycji 20, czyli osoby 20-69
 zakończy się.
-   ## http://kpietraszkiewicz.zut.edu.pl/std_lib/
